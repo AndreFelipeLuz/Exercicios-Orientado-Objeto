@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class AppDiabetes {
 
-	private static int contagemCadastro = 0, num;
+	private static int num;
 	private static Scanner scanner = new Scanner(System.in);
 
 	public static void main(String[] args) {

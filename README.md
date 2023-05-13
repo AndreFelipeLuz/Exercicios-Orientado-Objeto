@@ -11,3 +11,5 @@ Prova 1° Unidade - 20/4/23
 Exercício Agregação Viagem - 09/05/23
 
 Herança Exercício Navio - 11/05/23
+
+Exercício Composição Revista Edição - 13/05/23
